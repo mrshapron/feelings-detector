@@ -1,0 +1,14 @@
+{
+  "name": "feelings-detector",
+  "version": "1.0.0",
+  "description": "feelings-detector backend",
+  "scripts": {
+    "dev": "nodemon app/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "uvicorn": "^0.0.1-security"
+  }
+}
